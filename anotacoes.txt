@@ -1,0 +1,8 @@
+1 - Vamos utilizar um boilerplate para começar um projeto node.js com typescript
+R: https://github.com/felipeAguiarCode/node-blue-boilerplate
+
+2 - Instalar as dependencias
+R: npm install
+
+3- Instalar fastify:
+npm i fastify
